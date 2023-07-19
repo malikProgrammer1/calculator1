@@ -1,5 +1,5 @@
 # calculator1
-# Calculator created by myself and @dheller307. Completed on July 19th, 2023; during the summer entering our senior year of highschool.
+# Calculator created by @malikProgrammer1 and @dheller307. Completed on July 19th, 2023; during the summer entering our senior year of highschool.
 
 from tkinter import *
 from tkinter import ttk
